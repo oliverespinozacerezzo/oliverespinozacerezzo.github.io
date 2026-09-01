@@ -1,0 +1,40 @@
+body {
+  background-color: #ffa5c4;
+  color: #87d6f4;
+  text-shadow: 1px 1px 1px black;
+}
+
+.mycard-theme {
+  background-color: #87d6f4;
+  color: black;
+  box-shadox: 0px 0px 1px 1px black;
+  border-radius: 25px;
+}
+
+.card-img-top {
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+}
+
+.mycard {
+  background-color: #87d6f4;
+  color: black;
+  width: 180px;
+  height: 270px;
+  border-radius: 25px;
+  box-shadox: 0px 0px 1px 1px black;
+  padding: 20px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.mycard input {
+  width: 80%;
+  border-radius: 5px;
+  border: none;
+  padding: 3px 10px;
+}
+
+#marqueeText {
+  letter-spacing: 2px;
+}
