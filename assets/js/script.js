@@ -35,3 +35,7 @@ function processSale(){ // Substracts stock amount by #itemQuantity purchased, a
     document.getElementById("itemStock").textContent = "Out of stock";
   }
 }
+
+function say_hi(){
+  alert("Hiiiiii! ≧◡≦");
+}

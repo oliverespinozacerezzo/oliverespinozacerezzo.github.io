@@ -15,7 +15,7 @@ body {
   border-top-left-radius: inherit;
   border-top-right-radius: inherit;
 }
-
+/*
 .mycard {
   background-color: #87d6f4;
   color: black;
@@ -27,7 +27,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
 }
-
+*/
 .mycard input {
   width: 80%;
   border-radius: 5px;
@@ -35,6 +35,22 @@ body {
   padding: 3px 10px;
 }
 
-#marqueeText {
+.marqueeText {
   letter-spacing: 2px;
+}
+
+.navLink {
+  letter-spacing: 2px;
+}
+
+#mainText {
+  letter-spacing: 5px;
+}
+
+#mainSection {
+  background-color: #C3BEDC
+}
+
+#sideBar {
+  background-color: #C3BEDC
 }
